@@ -1,0 +1,156 @@
+@font-face {
+    font-family:'Poppins', sans-serif;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family:'Poppins', sans-serif;
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family:'Poppins', sans-serif;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family:'Open Sans', sans-serif;
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family:'Open Sans', sans-serif;
+    src: url(../fonts/OpenSans-SemiBold.ttf);
+}
+@font-face {
+    font-family:'Open Sans', sans-serif;
+    src: url(../fonts/OpenSans-SemiBoldItalic.ttf);
+}
+@font-face {
+    font-family:'Open Sans', sans-serif;
+    src: url(../fonts/OpenSans-Italic.ttf);
+}
+html{
+    background-color: #F5F5F5;
+}
+
+header{
+    border-bottom: 1px solid #000000;
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    color: #000000;
+}                 
+
+.header-lists{
+    text-align: center;
+    margin: 30px 0px;
+}
+
+.header{
+    font-size: 18px;
+    margin-right: 66px;
+    display: inline;
+}
+
+.products-title{
+    font-size: 14px;
+    text-align: center;
+    padding-top: 72px;
+    margin-bottom: 65px;
+}
+
+.product-cover{
+    display: inline-block;
+    text-align: right;
+    margin: 0px 45px;
+}
+
+
+.product-content {
+    border: 1px solid black;
+    width: 333px;
+}
+
+
+.product-content img{
+    text-align: center;
+    padding: 11px;
+}
+
+.products{
+    padding-left: 10px;
+}
+
+h3{
+    font-size: 16px;
+    text-align: left;
+    margin-left: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.products-p{
+    font-size: 14px;
+    text-align: left;
+    margin-left: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.product-footer button{
+    border:1px solid black;
+    border-radius: 4px;
+    margin-top: 23px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.footer-list{
+    text-align: left;
+    margin-top: 65px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.about-title{
+    font-size: 18px;
+    text-align: center;
+    padding-top: 85px;
+    color: #7D0000;
+    font-family: 'Open Sans', sans-serif;
+}
+
+adress{
+    font-size: 25px;
+}
+
+.adress-middle{
+    margin: 32px 0px;
+}
+
+.adress-section{
+    margin-left: 206px;
+    margin-top: 85px;
+}
+
+.contact-section{
+    font-size: 25px;
+    padding: 10px 600px 0px 175px;
+}
+
+.adress-about{
+    padding-top: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.mail{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.adress-middle{
+    font-family:'Open Sans', sans-serif;
+}
+
+.number{
+    font-family:'Open Sans', sans-serif;
+}
+
+p{
+    font-family:'Open Sans', sans-serif;
+}
